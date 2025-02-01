@@ -1,0 +1,1 @@
+This is the project i worked on while i am learning javascript event handlers this is a simple project consists of questions and answers and the answers are hidden and queations are display when user clicks on frequetly asked questions then answers are displayed.
